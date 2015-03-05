@@ -1,0 +1,1 @@
+Phoca Czech Alias Plugin is Joomla! CMS extension. Plugin which translated Czech diacritics characters to ascii (used in aliases).
