@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install version="1.5" type="plugin" group="system">
+	<name>Protos SEF</name>
+	<author>Ivo Apostolov</author>
+	<creationDate>8 December 2008</creationDate>
+	<copyright>Copyright (C) 2005 - 2008 Open Source Matters. (c) 2008 Protos Extensions. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>me@ivoapostolov.eu</authorEmail>
+	<authorUrl>www.ivoapostolov.eu</authorUrl>
+	<version>1.5</version>
+	<description>Makes some tricks :)</description>
+	<files>
+		<filename plugin="protos.sef">protos.sef.php</filename>
+	</files>	
+	<params>
+	</params>
+</install>
